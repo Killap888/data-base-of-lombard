@@ -1,0 +1,13 @@
+D:\Students\СУБД\Lombardo\Lombardo\bin\Debug\Lombardo.exe.config
+D:\Students\СУБД\Lombardo\Lombardo\bin\Debug\Lombardo.exe
+D:\Students\СУБД\Lombardo\Lombardo\bin\Debug\Lombardo.pdb
+D:\Students\СУБД\Lombardo\Lombardo\obj\Debug\Lombardo.csprojAssemblyReference.cache
+D:\Students\СУБД\Lombardo\Lombardo\obj\Debug\Lombardo.Form1.resources
+D:\Students\СУБД\Lombardo\Lombardo\obj\Debug\Lombardo.Properties.Resources.resources
+D:\Students\СУБД\Lombardo\Lombardo\obj\Debug\Lombardo.csproj.GenerateResource.cache
+D:\Students\СУБД\Lombardo\Lombardo\obj\Debug\Lombardo.csproj.CoreCompileInputs.cache
+D:\Students\СУБД\Lombardo\Lombardo\obj\Debug\Lombardo.exe
+D:\Students\СУБД\Lombardo\Lombardo\obj\Debug\Lombardo.pdb
+D:\Students\СУБД\Lombardo\Lombardo\obj\Debug\Lombardo.FormNewClient.resources
+D:\Students\СУБД\Lombardo\Lombardo\obj\Debug\Lombardo.FormNewCategory.resources
+D:\Students\СУБД\Lombardo\Lombardo\obj\Debug\Lombardo.FormNewProduct.resources
